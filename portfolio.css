@@ -1,0 +1,84 @@
+body{
+    background-image: url("Images/tiny-squares.png");
+}
+#headerContainer {
+    background: #ffffff;
+    border-bottom: #cccccc 2px solid;
+    max-width: 100%;
+    font-family: 'Georgia', Times, serif;
+}
+
+#name {
+    background: #4aaaa5;
+    padding: 20px 10px;
+    text-align: Center;
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.nav-link{
+    color: #666666;
+}
+
+#nav {
+    padding: 20px 10px;
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    
+}
+
+#content {
+    margin-top: 40px; 
+    margin-bottom: 80px;
+}
+
+.jumbotron {
+    margin-right: 80px;
+    margin-left: 105px;
+    background: #ffffff;
+    padding-top: 10px;
+}
+
+#me {
+    padding: 0px 20px 10px 0px;
+    border-bottom: #cccccc 2px solid;
+    font-size: 30px;
+    color: #4aaaa5;
+}
+
+#info {
+    padding: 20px 0px 0px 0px;
+}
+
+#selfImg {
+    width: 140px;
+    height: 200px;
+    margin-right: 20px;
+}
+
+.card-img-top {
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+}
+
+.card-body {
+    background: #4aaaa5;
+    padding: 0px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.btn.btn-primary {
+    background: #4aaaa5;
+}
+
+#footerContainer {
+    background: #666666;
+    text-align: center;
+    border-top: #4aaaa5 5px solid;
+    font-size: 12px;  
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;  
+    max-width: 100%;
+    padding: 18px;
+}
